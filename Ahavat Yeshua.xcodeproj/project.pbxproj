@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		081715AF2B87DEAA00CBC667 /* UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081715AE2B87DEAA00CBC667 /* UITests.swift */; };
 		08AB17362ABBCCE300813AA4 /* Ahavat_YeshuaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB17352ABBCCE300813AA4 /* Ahavat_YeshuaApp.swift */; };
 		08AB17382ABBCCE300813AA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AB17372ABBCCE300813AA4 /* ContentView.swift */; };
 		08AB173A2ABBCCE400813AA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08AB17392ABBCCE400813AA4 /* Assets.xcassets */; };
@@ -41,6 +40,16 @@
 		08E629222ADF64C100891626 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E629212ADF64C100891626 /* NetworkError.swift */; };
 		08E629242ADF687F00891626 /* RequestSending.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E629232ADF687F00891626 /* RequestSending.swift */; };
 		08E629262ADF6B8C00891626 /* Fetching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E629252ADF6B8C00891626 /* Fetching.swift */; };
+		7017FBE72BD70A2200F85BE3 /* TestHomeSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081715AE2B87DEAA00CBC667 /* TestHomeSection.swift */; };
+		7017FBED2BD713F500F85BE3 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7017FBEC2BD713F500F85BE3 /* Card.swift */; };
+		7017FBF12BD9AC6600F85BE3 /* HomeSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7017FBF02BD9AC6600F85BE3 /* HomeSection.swift */; };
+		70B280F32BD9BF850077B1CC /* BibleReadingSecion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B280F22BD9BF850077B1CC /* BibleReadingSecion.swift */; };
+		70B280F52BD9BF9C0077B1CC /* ProfileSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B280F42BD9BF9C0077B1CC /* ProfileSection.swift */; };
+		70B280F72BD9BFBE0077B1CC /* DonationSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B280F62BD9BFBE0077B1CC /* DonationSection.swift */; };
+		70B280FB2BD9C0D50077B1CC /* TestBibleReadinSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B280FA2BD9C0D50077B1CC /* TestBibleReadinSection.swift */; };
+		70B280FD2BD9C0EC0077B1CC /* TestProfileSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B280FC2BD9C0EC0077B1CC /* TestProfileSection.swift */; };
+		70B280FF2BD9C11C0077B1CC /* TestDonationSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B280FE2BD9C11C0077B1CC /* TestDonationSection.swift */; };
+		70B281032BDAF3F00077B1CC /* TestData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B281022BDAF3F00077B1CC /* TestData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +64,7 @@
 
 /* Begin PBXFileReference section */
 		081715AC2B87DEAA00CBC667 /* UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		081715AE2B87DEAA00CBC667 /* UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITests.swift; sourceTree = "<group>"; };
+		081715AE2B87DEAA00CBC667 /* TestHomeSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestHomeSection.swift; sourceTree = "<group>"; };
 		08AB17322ABBCCE300813AA4 /* Ahavat Yeshua.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ahavat Yeshua.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08AB17352ABBCCE300813AA4 /* Ahavat_YeshuaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ahavat_YeshuaApp.swift; sourceTree = "<group>"; };
 		08AB17372ABBCCE300813AA4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -90,6 +99,15 @@
 		08E629212ADF64C100891626 /* NetworkError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
 		08E629232ADF687F00891626 /* RequestSending.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestSending.swift; sourceTree = "<group>"; };
 		08E629252ADF6B8C00891626 /* Fetching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fetching.swift; sourceTree = "<group>"; };
+		7017FBEC2BD713F500F85BE3 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		7017FBF02BD9AC6600F85BE3 /* HomeSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeSection.swift; sourceTree = "<group>"; };
+		70B280F22BD9BF850077B1CC /* BibleReadingSecion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BibleReadingSecion.swift; sourceTree = "<group>"; };
+		70B280F42BD9BF9C0077B1CC /* ProfileSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSection.swift; sourceTree = "<group>"; };
+		70B280F62BD9BFBE0077B1CC /* DonationSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonationSection.swift; sourceTree = "<group>"; };
+		70B280FA2BD9C0D50077B1CC /* TestBibleReadinSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBibleReadinSection.swift; sourceTree = "<group>"; };
+		70B280FC2BD9C0EC0077B1CC /* TestProfileSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProfileSection.swift; sourceTree = "<group>"; };
+		70B280FE2BD9C11C0077B1CC /* TestDonationSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDonationSection.swift; sourceTree = "<group>"; };
+		70B281022BDAF3F00077B1CC /* TestData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +131,10 @@
 		081715AD2B87DEAA00CBC667 /* UITests */ = {
 			isa = PBXGroup;
 			children = (
-				081715AE2B87DEAA00CBC667 /* UITests.swift */,
+				7017FBEB2BD710BD00F85BE3 /* Utilities */,
+				7017FBEA2BD710AF00F85BE3 /* Fixtures */,
+				7017FBE92BD710A100F85BE3 /* Tests */,
+				7017FBE82BD7106F00F85BE3 /* PageObjects */,
 			);
 			path = UITests;
 			sourceTree = "<group>";
@@ -272,6 +293,52 @@
 			path = Network;
 			sourceTree = "<group>";
 		};
+		7017FBE82BD7106F00F85BE3 /* PageObjects */ = {
+			isa = PBXGroup;
+			children = (
+				7017FBF22BD9ACD500F85BE3 /* ElementsOnPages */,
+				7017FBF02BD9AC6600F85BE3 /* HomeSection.swift */,
+				70B280F22BD9BF850077B1CC /* BibleReadingSecion.swift */,
+				70B280F42BD9BF9C0077B1CC /* ProfileSection.swift */,
+				70B280F62BD9BFBE0077B1CC /* DonationSection.swift */,
+			);
+			path = PageObjects;
+			sourceTree = "<group>";
+		};
+		7017FBE92BD710A100F85BE3 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				081715AE2B87DEAA00CBC667 /* TestHomeSection.swift */,
+				70B280FA2BD9C0D50077B1CC /* TestBibleReadinSection.swift */,
+				70B280FC2BD9C0EC0077B1CC /* TestProfileSection.swift */,
+				70B280FE2BD9C11C0077B1CC /* TestDonationSection.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		7017FBEA2BD710AF00F85BE3 /* Fixtures */ = {
+			isa = PBXGroup;
+			children = (
+				70B281022BDAF3F00077B1CC /* TestData.swift */,
+			);
+			path = Fixtures;
+			sourceTree = "<group>";
+		};
+		7017FBEB2BD710BD00F85BE3 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		7017FBF22BD9ACD500F85BE3 /* ElementsOnPages */ = {
+			isa = PBXGroup;
+			children = (
+				7017FBEC2BD713F500F85BE3 /* Card.swift */,
+			);
+			path = ElementsOnPages;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -372,7 +439,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				081715AF2B87DEAA00CBC667 /* UITests.swift in Sources */,
+				70B280F72BD9BFBE0077B1CC /* DonationSection.swift in Sources */,
+				70B280FB2BD9C0D50077B1CC /* TestBibleReadinSection.swift in Sources */,
+				70B281032BDAF3F00077B1CC /* TestData.swift in Sources */,
+				7017FBE72BD70A2200F85BE3 /* TestHomeSection.swift in Sources */,
+				70B280FF2BD9C11C0077B1CC /* TestDonationSection.swift in Sources */,
+				70B280FD2BD9C0EC0077B1CC /* TestProfileSection.swift in Sources */,
+				7017FBED2BD713F500F85BE3 /* Card.swift in Sources */,
+				70B280F52BD9BF9C0077B1CC /* ProfileSection.swift in Sources */,
+				70B280F32BD9BF850077B1CC /* BibleReadingSecion.swift in Sources */,
+				7017FBF12BD9AC6600F85BE3 /* HomeSection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
