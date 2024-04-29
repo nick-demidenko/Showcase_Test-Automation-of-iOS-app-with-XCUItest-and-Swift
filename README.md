@@ -7,10 +7,10 @@ The target mobile application taken from this repository:
 
 The project is organized using the Page Object Model programming pattern.
 
-## Purpose of the project
+## Purpose of The Project
 To showcase my **iOS Test Automation** skills with **XCUItest** and **Swift** programming language.
 
-## What technologies are used?
+## What Technologies are Used?
 XCUItest, Swift.
 
 ## How to Launch It?
